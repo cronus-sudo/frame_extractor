@@ -86,6 +86,3 @@ output/
 
 - **`frames/`**: Extracted frames saved at the video's original resolution and aspect ratio in chronological order with sequential index and `HH-MM-SS.mmm` timestamp.
 - **`contact_sheet.jpg`**: Grid overview of all extracted frames with their filenames/timestamps.
-
-# frame_extractor
-# frame_extractor
